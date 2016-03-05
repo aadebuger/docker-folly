@@ -1,4 +1,4 @@
-FROM aadebuger/docker-cplusplus
+FROM  aadebuger/cplusplus
 
 RUN apt-get update
 RUN apt-get install -yq unzip
